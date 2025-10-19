@@ -24,6 +24,7 @@ This was created as **Task 1** during my internship program.
 - **JSON** (Data handling)
 - **VS Code** (Development Environment)
 - **npm** (Package Manager)
+- **Postman** (API Endpoint)
 
 ---
 
