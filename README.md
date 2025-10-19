@@ -1,4 +1,4 @@
-# PRODIGY_BD_01
+# PRODIGY_BD_02
 Basic REST API With CRUD Operations
 
 ## 📖 Overview
